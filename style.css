@@ -183,7 +183,7 @@ body {
 .swap-icon {
   width: 17px;
   height: 17px;
-  background: url("./public/Group.svg");
+  background: url("Group.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -372,4 +372,5 @@ input[type="number"] {
   font-weight: bold;
   flex-shrink: 0;
 }
+
 
